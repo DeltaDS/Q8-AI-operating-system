@@ -1,10 +1,12 @@
-# 8Q
+# Q8-AI
+#Delta DS
 <!-- ALL-CONTRIBUTORS-BADGE:START - Do not remove or modify this section -->
 [![All Contributors](https://img.shields.io/badge/all_contributors-4-orange.svg?style=flat-square)](#contributors-)
 <!-- ALL-CONTRIBUTORS-BADGE:END -->
 [![DOI](https://zenodo.org/badge/275711975.svg)](https://zenodo.org/badge/latestdoi/275711975)
 
 Computer with built-in General Purpose 8 Qubit Optical Quantum Processor
+This artificial intelligence system is made for the CPU which simulates the qubit in the CPU. This system is built and engineered in the Delta DS community.
 
 # Contributors
 [Thank you to all the contributors who make this possible](./CONTRIBUTORS.md)
